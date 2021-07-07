@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5e9e8b0-12f8-49f3-a5d2-7d634dbd4d56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qvULnetgZ2cKfBfwoovkUXcN47" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MY PROJECTS/java/list adad moratab" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.CommentHighlighterCustomTokensSettingsPage" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Player.BluePlayer" />
+      <recent name="Player.RedPlayer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.Main" />
+      <module name="MidtermProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.GameProcess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.Menu" />
+      <module name="MidtermProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.GameProcess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoardObjects.Star" />
+      <module name="MidtermProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GameBoard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dkfm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.dkfm" />
+      <module name="MidtermProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.GameProcess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.dkfm" />
+        <item itemvalue="Application.Star" />
+        <item itemvalue="Application.Menu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5e9e8b0-12f8-49f3-a5d2-7d634dbd4d56" name="Default Changelist" comment="" />
+      <created>1617959507011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617959507011</updated>
+      <workItem from="1617959510023" duration="133000" />
+      <workItem from="1617987661603" duration="2386000" />
+      <workItem from="1617995586050" duration="2371000" />
+      <workItem from="1618043687916" duration="84000" />
+      <workItem from="1618044416724" duration="22042000" />
+      <workItem from="1618074091278" duration="2517000" />
+      <workItem from="1618121255634" duration="5202000" />
+      <workItem from="1618126605698" duration="378000" />
+      <workItem from="1618130159964" duration="327000" />
+      <workItem from="1618133175612" duration="649000" />
+      <workItem from="1618135995755" duration="1657000" />
+      <workItem from="1618167074121" duration="737000" />
+      <workItem from="1618167837759" duration="21000" />
+      <workItem from="1618173044237" duration="7869000" />
+      <workItem from="1618209349998" duration="923000" />
+      <workItem from="1618223531094" duration="9574000" />
+      <workItem from="1618236608432" duration="11250000" />
+      <workItem from="1618255500165" duration="426000" />
+      <workItem from="1618255975199" duration="8390000" />
+      <workItem from="1618296001586" duration="8275000" />
+      <workItem from="1618395008430" duration="3278000" />
+      <workItem from="1618406088249" duration="2694000" />
+      <workItem from="1618511809329" duration="741000" />
+      <workItem from="1618513355482" duration="4879000" />
+      <workItem from="1618554713970" duration="11401000" />
+      <workItem from="1618582796000" duration="6083000" />
+      <workItem from="1618645887013" duration="89000" />
+      <workItem from="1618646003755" duration="15034000" />
+      <workItem from="1618676877165" duration="2387000" />
+      <workItem from="1618693743266" duration="289000" />
+      <workItem from="1618694256830" duration="418000" />
+      <workItem from="1618731025230" duration="9160000" />
+      <workItem from="1618746913791" duration="1902000" />
+      <workItem from="1618757416308" duration="16833000" />
+      <workItem from="1618816945713" duration="3707000" />
+      <workItem from="1618826163347" duration="12702000" />
+      <workItem from="1618851787947" duration="7143000" />
+      <workItem from="1618897268006" duration="2073000" />
+      <workItem from="1618927905138" duration="4935000" />
+      <workItem from="1618939997515" duration="3157000" />
+      <workItem from="1618976175860" duration="1368000" />
+      <workItem from="1618988826305" duration="12178000" />
+      <workItem from="1619016274615" duration="194000" />
+      <workItem from="1619016488299" duration="6140000" />
+      <workItem from="1619025316484" duration="9569000" />
+      <workItem from="1619038276927" duration="20000" />
+      <workItem from="1619079103892" duration="7952000" />
+      <workItem from="1619100683277" duration="1823000" />
+      <workItem from="1619109026863" duration="11476000" />
+      <workItem from="1619161975827" duration="3883000" />
+      <workItem from="1619169267312" duration="7974000" />
+      <workItem from="1619185009266" duration="3858000" />
+      <workItem from="1619192776403" duration="857000" />
+      <workItem from="1619194679629" duration="4744000" />
+      <workItem from="1619210058130" duration="4340000" />
+      <workItem from="1619255405950" duration="992000" />
+      <workItem from="1619280548964" duration="6347000" />
+      <workItem from="1619287892634" duration="829000" />
+      <workItem from="1619289402736" duration="123000" />
+      <workItem from="1619293220493" duration="3511000" />
+      <workItem from="1619296778789" duration="160000" />
+      <workItem from="1619296974396" duration="3323000" />
+      <workItem from="1619328375957" duration="9139000" />
+      <workItem from="1619338009538" duration="2909000" />
+      <workItem from="1619342363708" duration="15668000" />
+      <workItem from="1619366817572" duration="5461000" />
+      <workItem from="1619540921990" duration="382000" />
+      <workItem from="1619542403385" duration="676000" />
+      <workItem from="1620121733693" duration="15087000" />
+      <workItem from="1620193132417" duration="4667000" />
+      <workItem from="1620204068487" duration="2605000" />
+      <workItem from="1620210461656" duration="3577000" />
+      <workItem from="1620290301938" duration="1164000" />
+      <workItem from="1620294729101" duration="810000" />
+      <workItem from="1620295570277" duration="33000" />
+      <workItem from="1620296435399" duration="2966000" />
+      <workItem from="1620300288738" duration="6145000" />
+      <workItem from="1620306576541" duration="1000" />
+      <workItem from="1620307066981" duration="2177000" />
+      <workItem from="1620309355771" duration="524000" />
+      <workItem from="1625648529573" duration="661000" />
+      <workItem from="1625673468683" duration="687000" />
+      <workItem from="1625675433508" duration="459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
