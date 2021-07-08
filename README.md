@@ -1,6 +1,6 @@
 # Star_Collector_v1
 
-![Game](https://github.com/narges-karimian/Star_Collector_v1/main/Description/Introduction.png)
+![Game](https://github.com/narges-karimian/Star_Collector_v1/blob/main/Description/Introduction.png)
 
 * 1. Menu
 * 2. Enter number of rows
